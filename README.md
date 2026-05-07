@@ -156,7 +156,7 @@ bash run_bicycle_train.sh --headless
 ```
 
 ---
-
+<!-- 
 ## Reproducing Paper Results
 
 All paper experiments use pre-trained checkpoints. Download them from [TODO: add release link] and place them under `runs/`.
@@ -174,7 +174,7 @@ All paper experiments use pre-trained checkpoints. Download them from [TODO: add
 Summarize 2×2 friction results:
 ```bash
 python scripts/summarize_2x2_eval.py
-```
+``` -->
 
 ---
 
